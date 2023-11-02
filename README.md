@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">SeaOfSalt</h1>
-<p align="center">Simple Salty Tycoon</p>
+<p align="center">Simple Salty Tycoon</p align="center">
 
 <div align="center">
 </div>
