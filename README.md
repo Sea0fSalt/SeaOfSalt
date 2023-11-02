@@ -14,6 +14,12 @@ This is a simple created in scratch compiled using [turbowarp](https://turbowarp
 
 ### 🕹️ How to play
 Goto [Play](https://github.com/Sea0fSalt/SeaOfSalt/blob/main/README.md#%EF%B8%8F-play) and choose version you want to play!
+
+### 📝 Credits
+Graphics - ChatGPT 4, [QwertyCodePL](https://github.com/QwertyCodePL)
+Music - Public domain
+Coding - [QwertyCodePL](https://github.com/QwertyCodePL)
+Extension scripting - ChatGPT 4
 ## 🕹️ Play!
 ⚒️ beta-1.0 BASE - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.0.html)
 
