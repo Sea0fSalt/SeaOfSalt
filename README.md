@@ -9,12 +9,11 @@
 <div align="center">
 </div>
 
-###⚒️ How it works
+### ⚒️ How it works
 This is a simple created in scratch compiled using [turbowarp](https://turbowarp.org)
 
 ### 🕹️ How to play
-Goto 
-
+Goto [Play](https://github.com/Sea0fSalt/SeaOfSalt/blob/main/README.md#%EF%B8%8F-play) and choose version you want to play!
 ## 🕹️ Play!
 ⚒️ beta-1.0 BASE - [Play](https://sea0fsalt.github.io/SeaOfSalt_beta1.0.html)
 
@@ -22,4 +21,4 @@ Goto
 
 <hr />
 
-(C) SeaOfSalt by QwertyCodePL 2023
+<p align="center">(C) SeaOfSalt by QwertyCodePL 2023</p>
