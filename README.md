@@ -20,6 +20,7 @@ Graphics - ChatGPT 4, [QwertyCodePL](https://github.com/QwertyCodePL)
 Music - Public domain
 Coding - [QwertyCodePL](https://github.com/QwertyCodePL)
 Extension scripting - ChatGPT 4
+
 ## 🕹️ Play!
 ⚒️ beta-1.0 BASE - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.0.html)
 
