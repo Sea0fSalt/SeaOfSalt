@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
+<img src="https://sea0fsalt.github.io/logo.png" alt="meteor-client-logo" width="15%"/>
 </p>
 
-<h1 align="center">Meteor Client</h1>
-<p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
+<h1 align="center">SeaOfSalt</h1>
+<p align="center">Simple Salty Tycoon</p>
 
 <div align="center">
 </div>
