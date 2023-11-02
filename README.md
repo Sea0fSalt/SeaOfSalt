@@ -22,7 +22,7 @@ Goto [Play](https://github.com/Sea0fSalt/SeaOfSalt/blob/main/README.md#%EF%B8%8F
 - Extension scripting - ChatGPT 4
 
 ## 🕹️ Play!
-⚒️ beta-1.0 BASE - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.0.html)
+⚒️ beta-1.0 BASE - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.0.html) [Download APK](sea0fsalt.github.io/download/apk/SeaOfSalt_beta-1.0.apk)
 
 
 
