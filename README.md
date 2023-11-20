@@ -16,7 +16,7 @@ This is a simple created in scratch compiled using [turbowarp](https://turbowarp
 Goto [Play](https://github.com/Sea0fSalt/SeaOfSalt/blob/main/README.md#%EF%B8%8F-play) and choose version you want to play!
 
 ### 📝 Credits
-- Graphics - ChatGPT 4, [QwertyCodePL](https://github.com/QwertyCodePL)
+- Graphics - DALL-E 3, [QwertyCodePL](https://github.com/QwertyCodePL)
 - Music - Public domain
 - Coding - [QwertyCodePL](https://github.com/QwertyCodePL)
 - Extension scripting - ChatGPT 4
