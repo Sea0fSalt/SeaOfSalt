@@ -20,10 +20,13 @@ Goto [Play](https://github.com/Sea0fSalt/SeaOfSalt/blob/main/README.md#%EF%B8%8F
 - Music - Public domain
 - Coding - [QwertyCodePL](https://github.com/QwertyCodePL)
 - Extension scripting - ChatGPT 4
+- Animating - LeiaPix, [QwertyCodePL](https://github.com/QwertyCodePL)
+- GUI - [QwertyCodePL](https://github.com/QwertyCodePL)
 
 ## 🕹️ Play!
-- ⚒️ beta-1.0 BASE - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.0.html) or [Download APK](https://sea0fsalt.github.io/download/apk/SeaOfSalt_beta-1.0.apk)
-- ⚒️ beta-1.1 BUGFIX - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.1.html) or [Download APK](https://sea0fsalt.github.io/download/apk/SeaOfSalt_beta-1.1.apk)
+### ⚒️ beta-1.0 BASE - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.0.html) or [Download APK](https://sea0fsalt.github.io/download/apk/SeaOfSalt_beta-1.0.apk)
+
+### ⚒️ beta-1.1 BUGFIX - [Play](https://sea0fsalt.github.io/play/SeaOfSalt_beta1.1.html) or [Download APK](https://sea0fsalt.github.io/download/apk/SeaOfSalt_beta-1.1.apk)
 
 
 
