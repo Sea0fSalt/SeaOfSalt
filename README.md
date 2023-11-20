@@ -6,6 +6,8 @@
 <h1 align="center">SeaOfSalt</h1>
 <p align="center">Simple Salty Tycoon</p>
 
+<p align="center">Fastlinks: [Play](https://github.com/Sea0fSalt/SeaOfSalt/blob/main/README.md#%EF%B8%8F-play), [Wiki](sea0fsalt.github.io)</p>
+
 <div align="center">
 </div>
 
